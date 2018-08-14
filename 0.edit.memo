@@ -1,0 +1,2 @@
+ansible-playbook install/elk.yml
+注意一下elk.yml的host設定
